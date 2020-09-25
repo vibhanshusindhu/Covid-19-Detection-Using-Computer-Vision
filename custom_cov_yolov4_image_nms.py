@@ -1,5 +1,5 @@
 """Created on Wed Sep 23 21:34:57 2020
-@author: theaverageguy"""
+@author: vibhanshusindhu"""
 
 """ custom_cov_yolov4_image_nms """
 
