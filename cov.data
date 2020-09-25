@@ -1,0 +1,5 @@
+classes = 1
+train = cov_data/cov_training.txt
+valid = cov_data/cov_testing.txt
+names = cov_data/cov.names
+backup = backup
