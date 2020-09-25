@@ -1,1 +1,1 @@
-# Covid-Detection-from-electron-microscopic-images-and-videos-Using-Computer-Vision-detection-algorithm-yolov4
+# Covid-Detection-from-electron-microscopic-images-and-videos-Using-Computer-Vision-and-object-detection-algorithm-yolov4
